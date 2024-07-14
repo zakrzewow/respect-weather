@@ -1,0 +1,983 @@
+id,location,latitude,longitude
+0,"A Coruña, Galicia, Spain",43.365,-8.41
+1,"Aachen, North Rhine-Westphalia, Germany",50.7756,6.0836
+2,"Aarhus, Midtjylland, Denmark",56.1572,10.2107
+3,"Aberdeen, United Kingdom",57.15,-2.11
+4,"Abertawe, Swansea, United Kingdom",51.6167,-3.95
+5,"Abū Ḩummuş, Al Buḩayrah, Egypt",31.1006,30.3128
+6,"Ad Dīwānīyah, Al Qādisīyah, Iraq",31.9892,44.9247
+7,"Adana, Turkey",37.0,35.3213
+8,"Adıyaman, Turkey",37.7639,38.2778
+9,"Afyonkarahisar, Turkey",38.7578,30.5386
+10,"Agadir, Souss-Massa, Morocco",30.4333,-9.6
+11,"Ajdābiyā, Al Wāḩāt, Libya",30.7556,20.2253
+12,"Aksaray, Turkey",38.3742,34.0289
+13,"Al Bayḑā’, Al Jabal al Akhḑar, Libya",32.7664,21.7417
+14,"Al Bājūr, Al Minūfīyah, Egypt",30.4333,31.0569
+15,"Al Fallūjah, Al Anbār, Iraq",33.35,43.7833
+16,"Al Khums, Al Marqab, Libya",32.6497,14.2644
+17,"Al Mafraq, Jordan",32.3399,36.2052
+18,"Al Manşūrah, Ad Daqahlīyah, Egypt",31.05,31.3833
+19,"Al Maţarīyah, Ad Daqahlīyah, Egypt",31.1833,32.0333
+20,"Al Maḩallah al Kubrá, Al Gharbīyah, Egypt",30.9686,31.1636
+21,"Al Ḩillah, Bābil, Iraq",32.4775,44.4314
+22,"Al ‘Ajamī, Al Iskandarīyah, Egypt",31.0959,29.7604
+23,"Al ‘Āshir min Ramaḑān, Ash Sharqīyah, Egypt",30.3065,31.7415
+24,"Alanya, Antalya, Turkey",36.55,32.0
+25,"Aleksandrów Kujawski, Kujawsko-Pomorskie, Poland",52.8767,18.6936
+26,"Aleksandrów Łódzki, Łódzkie, Poland",51.8194,19.3039
+27,"Aleppo, Ḩalab, Syria",36.2,37.16
+28,"Alexandria, Al Iskandarīyah, Egypt",31.1975,29.8925
+29,"Algiers, Alger",36.7539,3.0589
+30,"Alicante, Valencia, Spain",38.3453,-0.4831
+31,"Almere, Flevoland, Netherlands",52.3667,5.2167
+32,"Almería, Andalusia, Spain",36.8403,-2.4681
+33,"Altındağ, Ankara, Turkey",39.9636,32.9033
+34,"Amman, Al ‘Āşimah, Jordan",31.9497,35.9328
+35,"Amsterdam, Noord-Holland, Netherlands",52.3728,4.8936
+36,"An Najaf, Iraq",32.0,44.33
+37,"Andrychów, Małopolskie, Poland",49.855,19.3414
+38,"Ankara, Turkey",39.93,32.85
+39,"Annaba, Algeria",36.9,7.7667
+40,"Antalya, Turkey",36.8874,30.7075
+41,"Antwerp, Flanders, Belgium",51.2178,4.4003
+42,"Ar Ramādī, Al Anbār, Iraq",33.4258,43.2992
+43,"Ar Raqqah, Syria",35.95,39.01
+44,"Ar Ruşayfah, Az Zarqā’, Jordan",32.0178,36.0464
+45,"Arkhangelsk, Arkhangel’skaya Oblast’, Russia",64.5333,40.5333
+46,"Arnavutköy, İstanbul, Turkey",41.1856,28.7406
+47,"Ash Shuhadā’, Al Minūfīyah, Egypt",30.6039,30.9021
+48,"Ash Shāmīyah, Al Qādisīyah, Iraq",31.9636,44.5989
+49,"Ashdod, Southern, Israel",31.8,34.65
+50,"Ashmūn, Al Minūfīyah, Egypt",30.2941,31.0342
+51,"Athens, Attikí, Greece",37.9842,23.7281
+52,"Augsburg, Bavaria, Germany",48.3689,10.8978
+53,"Augustów, Podlaskie, Poland",53.8436,22.9794
+54,"Avcılar, İstanbul, Turkey",40.9792,28.7214
+55,"Aves, Porto, Portugal",41.44,-8.3
+56,"Awsīm, Al Jīzah, Egypt",30.1167,31.1333
+57,"Aydın, Turkey",37.8481,27.8453
+58,"Az Zaqāzīq, Ash Sharqīyah, Egypt",30.5667,31.5
+59,"Az Zarqā’, Jordan",32.0833,36.1
+60,"Babruysk, Mahilyowskaya Voblasts’, Belarus",53.15,29.2333
+61,"Badalona, Catalonia, Spain",41.4489,2.2461
+62,"Baghdad, Baghdād, Iraq",33.3153,44.3661
+63,"Balashikha, Moskovskaya Oblast’, Russia",55.8167,37.9667
+64,"Balıkesir, Turkey",39.6333,27.8833
+65,"Banino, Pomorskie, Poland",54.3933,18.4083
+66,"Barcelona, Catalonia, Spain",41.3828,2.1769
+67,"Bari, Puglia, Italy",41.1253,16.8667
+68,"Barlinek, Zachodniopomorskie, Poland",53.0,15.2
+69,"Barnsley, United Kingdom",53.5547,-1.4791
+70,"Barr Eliâs, Béqaa, Lebanon",33.775,35.9
+71,"Bartoszyce, Warmińsko-Mazurskie, Poland",54.25,20.8
+72,"Batman, Turkey",37.887,41.132
+73,"Batna, Algeria",35.55,6.1667
+74,"Battalgazi, Malatya, Turkey",38.4228,38.3656
+75,"Bayat, Çorum, Turkey",40.5455,34.957
+76,"Bazal’tove, Rivnenska Oblast, Ukraine",50.6765,26.16
+77,"Bağcılar, İstanbul, Turkey",41.0344,28.8564
+78,"Bağlar, Diyarbakır, Turkey",37.9167,40.1833
+79,"Ba‘qūbah, Diyālá, Iraq",33.75,44.6333
+80,"Beersheba, Southern, Israel",31.2589,34.7997
+81,"Beirut, Beyrouth, Lebanon",33.8983,35.5057
+82,"Belfast, United Kingdom",54.5964,-5.93
+83,"Belgorod, Russia",50.6,36.6
+84,"Belgrade, Beograd, Serbia",44.82,20.46
+85,"Benghazi, Banghāzī, Libya",32.1167,20.0667
+86,"Bergen, Vestland, Norway",60.3894,5.33
+87,"Berlin, Germany",52.52,13.405
+88,"Beykoz, İstanbul, Turkey",41.1342,29.0922
+89,"Beylikdüzü, İstanbul, Turkey",41.0011,28.6419
+90,"Bełchatów, Łódzkie, Poland",51.3667,19.3667
+91,"Biała Podlaska, Lubelskie, Poland",52.0333,23.1167
+92,"Białogard, Zachodniopomorskie, Poland",54.0,15.9833
+93,"Biały Kamień, Dolnośląskie, Poland",50.7814,16.2539
+94,"Białystok, Podlaskie, Poland",53.1353,23.1456
+95,"Bielawa, Dolnośląskie, Poland",50.7,16.6167
+96,"Bielefeld, North Rhine-Westphalia, Germany",52.0211,8.5347
+97,"Bielsk Podlaski, Podlaskie, Poland",52.7667,23.2
+98,"Bielsko-Biała, Śląskie, Poland",49.8225,19.0444
+99,"Bieruń Stary, Śląskie, Poland",50.0897,19.0928
+100,"Bieruń, Śląskie, Poland",50.1333,19.1
+101,"Bila Tserkva, Kyivska Oblast, Ukraine",49.7989,30.1153
+102,"Bilbao, Basque Country, Spain",43.2569,-2.9236
+103,"Birkat as Sab‘, Al Minūfīyah, Egypt",30.6338,31.0848
+104,"Birmingham, United Kingdom",52.48,-1.9025
+105,"Biskra, Algeria",34.85,5.7333
+106,"Biskupiec, Warmińsko-Mazurskie, Poland",53.85,20.95
+107,"Biyalā, Kafr ash Shaykh, Egypt",31.1747,31.2204
+108,"Biłgoraj, Lubelskie, Poland",50.55,22.7333
+109,"Blachownia, Śląskie, Poland",50.7833,18.9667
+110,"Bochnia, Małopolskie, Poland",49.9833,20.4333
+111,"Bochum, North Rhine-Westphalia, Germany",51.4819,7.2158
+112,"Bogatynia, Dolnośląskie, Poland",50.9069,14.9569
+113,"Bogucice, Śląskie, Poland",50.2668,19.0397
+114,"Boguszów-Gorce, Dolnośląskie, Poland",50.7667,16.2
+115,"Bolesławiec, Dolnośląskie, Poland",51.2667,15.5667
+116,"Bologna, Emilia-Romagna, Italy",44.4939,11.3428
+117,"Bolszewo, Pomorskie, Poland",54.6242,18.1753
+118,"Bolton, United Kingdom",53.578,-2.429
+119,"Bonn, North Rhine-Westphalia, Germany",50.7333,7.1
+120,"Bordeaux, Nouvelle-Aquitaine, France",44.84,-0.58
+121,"Bornova, İzmir, Turkey",38.4697,27.2211
+122,"Bradford, United Kingdom",53.8,-1.75
+123,"Braniewo, Warmińsko-Mazurskie, Poland",54.3833,19.8333
+124,"Bratislava, Slovakia",48.1439,17.1097
+125,"Braunschweig, Lower Saxony, Germany",52.2667,10.5167
+126,"Braşov, Romania",45.6667,25.6167
+127,"Bremen, Germany",53.0758,8.8072
+128,"Brest, Belarus",52.1347,23.6569
+129,"Bristol, United Kingdom",51.4536,-2.5975
+130,"Brno, Jihomoravský Kraj, Czechia",49.1925,16.6083
+131,"Brodnica, Kujawsko-Pomorskie, Poland",53.2597,19.3956
+132,"Brussels, Belgium",50.8467,4.3525
+133,"Brwinów, Mazowieckie, Poland",52.1417,20.7167
+134,"Bryansk, Russia",53.2333,34.3667
+135,"Brzeg Dolny, Dolnośląskie, Poland",51.2708,16.7208
+136,"Brzeg, Opolskie, Poland",50.8667,17.4833
+137,"Brzesko, Małopolskie, Poland",49.9667,20.6167
+138,"Brzeszcze, Małopolskie, Poland",50.0,19.15
+139,"Brzeziny, Łódzkie, Poland",51.8,19.75
+140,"Buca, İzmir, Turkey",38.35,27.1667
+141,"Bucharest, Bucureşti, Romania",44.4325,26.1039
+142,"Budapest, Hungary",47.4925,19.0514
+143,"Bukowno, Małopolskie, Poland",50.2681,19.4631
+144,"Burgas, Bulgaria",42.503,27.4702
+145,"Bursa, Turkey",40.1833,29.05
+146,"Busko-Zdrój, Świętokrzyskie, Poland",50.4667,20.7167
+147,"Bydgoszcz, Kujawsko-Pomorskie, Poland",53.1219,18.0003
+148,"Bystrzyca Kłodzka, Dolnośląskie, Poland",50.3,16.65
+149,"Bytom, Śląskie, Poland",50.3483,18.9156
+150,"Bytów, Pomorskie, Poland",54.1333,17.5
+151,"Büyükçekmece, İstanbul, Turkey",41.02,28.5775
+152,"Będzin, Śląskie, Poland",50.3333,19.1167
+153,"Błonie, Mazowieckie, Poland",52.2,20.6167
+154,"Caerdydd, Cardiff, United Kingdom",51.4833,-3.1833
+155,"Cairo, Al Qāhirah, Egypt",30.0444,31.2358
+156,"Cartagena, Murcia, Spain",37.6,-0.9833
+157,"Casablanca, Morocco",33.5333,-7.5833
+158,"Cascais, Lisboa, Portugal",38.7,-9.4167
+159,"Catania, Sicilia, Italy",37.5,15.0903
+160,"Charleroi, Wallonia, Belgium",50.4,4.4333
+161,"Chemnitz, Saxony, Germany",50.8333,12.9167
+162,"Cherepovets, Vologodskaya Oblast’, Russia",59.1167,37.9
+163,"Cherkasy, Cherkaska Oblast, Ukraine",49.4444,32.0597
+164,"Chernihiv, Ukraine",51.4939,31.2947
+165,"Chernivtsi, Chernivetska Oblast, Ukraine",48.3,25.9333
+166,"Chełm, Lubelskie, Poland",51.1322,23.4778
+167,"Chełmek, Małopolskie, Poland",50.1167,19.25
+168,"Chełmno, Kujawsko-Pomorskie, Poland",53.3492,18.4231
+169,"Chełmża, Kujawsko-Pomorskie, Poland",53.1847,18.6042
+170,"Chisinau, Chişinău, Moldova",47.0228,28.8353
+171,"Chodzież, Wielkopolskie, Poland",52.9833,16.9
+172,"Chojnice, Pomorskie, Poland",53.7,17.55
+173,"Chojnów, Dolnośląskie, Poland",51.2667,15.9333
+174,"Chorzów, Śląskie, Poland",50.3,18.95
+175,"Choszczno, Zachodniopomorskie, Poland",53.1667,15.4
+176,"Chropaczów, Śląskie, Poland",50.3131,18.915
+177,"Chrzanów, Małopolskie, Poland",50.1333,19.4
+178,"Ciechanów, Mazowieckie, Poland",52.8667,20.6333
+179,"Ciechocinek, Kujawsko-Pomorskie, Poland",52.8833,18.7833
+180,"Cieszyn, Śląskie, Poland",49.7484,18.6332
+181,"Cluj-Napoca, Cluj, Romania",46.7667,23.5833
+182,"Cologne, North Rhine-Westphalia, Germany",50.9364,6.9528
+183,"Constantine, Algeria",36.35,6.6
+184,"Constanţa, Romania",44.1667,28.6333
+185,"Copenhagen, Hovedstaden, Denmark",55.6761,12.5683
+186,"Cork, Ireland",51.8972,-8.47
+187,"Cosenza, Calabria, Italy",39.3,16.25
+188,"Coventry, United Kingdom",52.4081,-1.5106
+189,"Craiova, Dolj, Romania",44.3333,23.8167
+190,"Czarna Białostocka, Podlaskie, Poland",53.3,23.2833
+191,"Czarnków, Wielkopolskie, Poland",52.9,16.5667
+192,"Czechowice-Dziedzice, Śląskie, Poland",49.9131,19.0064
+193,"Czeladź, Śląskie, Poland",50.3333,19.0833
+194,"Czernica, Dolnośląskie, Poland",51.0464,17.2439
+195,"Czersk Pomorski, Pomorskie, Poland",53.7928,17.9739
+196,"Częstochowa, Śląskie, Poland",50.8,19.1167
+197,"Człuchów, Pomorskie, Poland",53.65,17.3667
+198,"Córdoba, Andalusia, Spain",37.8845,-4.7796
+199,"Dahūk, Iraq",36.8667,43.0
+200,"Damanhūr, Al Buḩayrah, Egypt",31.0361,30.4694
+201,"Damascus, Dimashq, Syria",33.5131,36.2919
+202,"Damietta, Dumyāţ, Egypt",31.4167,31.8214
+203,"Darłowo, Zachodniopomorskie, Poland",54.4208,16.4097
+204,"Dayr az Zawr, Syria",35.3333,40.15
+205,"Debrecen, Hajdú-Bihar, Hungary",47.53,21.6392
+206,"Demiryol, Batman, Turkey",37.887,41.132
+207,"Denizli, Turkey",37.7833,29.0964
+208,"Derby, United Kingdom",52.9247,-1.478
+209,"Dikirnis, Ad Daqahlīyah, Egypt",31.0883,31.5969
+210,"Diyarbakır, Turkey",37.91,40.24
+211,"Djelfa, Algeria",34.6667,3.25
+212,"Dnipro, Ukraine",48.4675,35.04
+213,"Dobre Miasto, Warmińsko-Mazurskie, Poland",53.9875,20.3958
+214,"Donetsk, Ukraine",48.0028,37.8053
+215,"Dortmund, North Rhine-Westphalia, Germany",51.5139,7.4653
+216,"Drawsko Pomorskie, Zachodniopomorskie, Poland",53.5333,15.8
+217,"Dresden, Saxony, Germany",51.05,13.74
+218,"Drezdenko, Lubuskie, Poland",52.8333,15.8333
+219,"Dublin, Ireland",53.35,-6.2603
+220,"Duisburg, North Rhine-Westphalia, Germany",51.4347,6.7625
+221,"Dzerzhinsk, Nizhegorodskaya Oblast’, Russia",56.2333,43.45
+222,"Działdowo, Warmińsko-Mazurskie, Poland",53.2333,20.1833
+223,"Dzierżoniów, Dolnośląskie, Poland",50.7281,16.6511
+224,"Düsseldorf, North Rhine-Westphalia, Germany",51.2333,6.7833
+225,"Düzce, Turkey",40.8417,31.1583
+226,"Dąbrowa Górnicza, Śląskie, Poland",50.3214,19.1872
+227,"Dąbrowa Tarnowska, Małopolskie, Poland",50.1667,20.9833
+228,"Dębica, Podkarpackie, Poland",50.05,21.4167
+229,"Dęblin, Lubelskie, Poland",51.5667,21.8614
+230,"Dębno, Zachodniopomorskie, Poland",52.7333,14.7
+231,"Edinburgh, United Kingdom",55.9533,-3.1892
+232,"Eindhoven, Noord-Brabant, Netherlands",51.4333,5.4833
+233,"El Jadid, Casablanca-Settat, Morocco",33.2333,-8.5
+234,"Elazığ, Turkey",38.6744,39.2228
+235,"Elbląg, Warmińsko-Mazurskie, Poland",54.1667,19.4
+236,"Elche, Valencia, Spain",38.2669,-0.6983
+237,"Erbil, Arbīl, Iraq",36.1912,44.0092
+238,"Erköklü, Batman, Turkey",37.887,41.132
+239,"Erzurum, Turkey",39.9086,41.2769
+240,"Esenler, İstanbul, Turkey",41.0339,28.8903
+241,"Esenyurt, İstanbul, Turkey",41.0342,28.68
+242,"Eskişehir, Turkey",39.7767,30.5206
+243,"Espoo, Uusimaa, Finland",60.2056,24.6556
+244,"Essen, North Rhine-Westphalia, Germany",51.4508,7.0131
+245,"Etimesgut, Ankara, Turkey",39.9458,32.6694
+246,"Ełk, Warmińsko-Mazurskie, Poland",53.8214,22.3622
+247,"Finglas, Dublin, Ireland",53.4597,-6.2181
+248,"Florence, Tuscany, Italy",43.7714,11.2542
+249,"Frankfurt, Hesse, Germany",50.1106,8.6822
+250,"Freiburg im Breisgau, Baden-Württemberg, Germany",47.995,7.85
+251,"Fès, Morocco",34.0433,-5.0033
+252,"Galaţi, Romania",45.4233,28.0425
+253,"Garwolin, Mazowieckie, Poland",51.9,21.6333
+254,"Gaszowice, Śląskie, Poland",50.1089,18.4308
+255,"Gaziantep, Turkey",37.0628,37.3792
+256,"Gdańsk, Pomorskie, Poland",54.3475,18.6453
+257,"Gdynia, Pomorskie, Poland",54.5175,18.54
+258,"Gebze, Kocaeli, Turkey",40.8,29.4333
+259,"Gelsenkirchen, North Rhine-Westphalia, Germany",51.5167,7.1
+260,"Geneva, Genève, Switzerland",46.2017,6.1469
+261,"Genoa, Liguria, Italy",44.4111,8.9328
+262,"Gent, Flanders, Belgium",51.0536,3.7253
+263,"Gierałtowice, Śląskie, Poland",50.2167,18.7167
+264,"Gijón, Asturias, Spain",43.5333,-5.7
+265,"Giszowiec, Śląskie, Poland",50.2236,19.0694
+266,"Giżycko, Warmińsko-Mazurskie, Poland",54.04,21.7589
+267,"Glasgow, United Kingdom",55.8611,-4.25
+268,"Gliwice, Śląskie, Poland",50.2833,18.6667
+269,"Gniezno, Wielkopolskie, Poland",52.5358,17.5958
+270,"Goleniów, Zachodniopomorskie, Poland",53.5636,14.8281
+271,"Golub-Dobrzyń, Kujawsko-Pomorskie, Poland",53.1,19.05
+272,"Gorlice, Małopolskie, Poland",49.6547,21.1597
+273,"Gorzów Wielkopolski, Lubuskie, Poland",52.7333,15.25
+274,"Gostynin, Mazowieckie, Poland",52.4167,19.4667
+275,"Gostyń, Wielkopolskie, Poland",51.8792,17.0125
+276,"Gothenburg, Västra Götaland, Sweden",57.7075,11.9675
+277,"Goworowo, Mazowieckie, Poland",52.9006,21.5544
+278,"Gołdap, Warmińsko-Mazurskie, Poland",54.3161,22.3094
+279,"Gołuchów, Wielkopolskie, Poland",51.8494,17.9314
+280,"Grajewo, Podlaskie, Poland",53.65,22.45
+281,"Granada, Andalusia, Spain",37.1781,-3.6008
+282,"Graz, Steiermark, Austria",47.0708,15.4386
+283,"Grodzisk Mazowiecki, Mazowieckie, Poland",52.1089,20.625
+284,"Grodzisk Wielkopolski, Wielkopolskie, Poland",52.2333,16.3667
+285,"Groningen, Netherlands",53.2189,6.5675
+286,"Grudziądz, Kujawsko-Pomorskie, Poland",53.4875,18.755
+287,"Gryfice, Zachodniopomorskie, Poland",53.9147,15.1986
+288,"Gryfino, Zachodniopomorskie, Poland",53.2531,14.4875
+289,"Grójec, Mazowieckie, Poland",51.8656,20.8675
+290,"Gubin, Lubuskie, Poland",51.95,14.7167
+291,"Győr, Hungary",47.6842,17.6344
+292,"Góra Kalwaria, Mazowieckie, Poland",51.9733,21.2144
+293,"Góra, Dolnośląskie, Poland",51.6667,16.55
+294,"Güngören, İstanbul, Turkey",41.0225,28.8717
+295,"Głogów Małopolski, Podkarpackie, Poland",50.1667,21.9667
+296,"Głogów, Dolnośląskie, Poland",51.6589,16.0803
+297,"Głowno, Łódzkie, Poland",51.9642,19.7117
+298,"Głubczyce, Opolskie, Poland",50.2011,17.8247
+299,"Głuchołazy, Opolskie, Poland",50.3131,17.3742
+300,"Haifa, Israel",32.8192,34.9992
+301,"Hajnówka, Podlaskie, Poland",52.7333,23.5667
+302,"Halemba, Śląskie, Poland",50.2378,18.8633
+303,"Halle, Saxony-Anhalt, Germany",51.4828,11.9697
+304,"Hamburg, Germany",53.55,10.0
+305,"Hannover, Lower Saxony, Germany",52.3667,9.7167
+306,"Hatay, Turkey",36.2025,36.1606
+307,"Helsinki, Uusimaa, Finland",60.1708,24.9375
+308,"Homs, Ḩimş, Syria",34.7308,36.7094
+309,"Homyel’, Belarus",52.4453,30.9842
+310,"Horlivka, Donetska Oblast, Ukraine",48.3,38.05
+311,"Hrodna, Hrodzyenskaya Voblasts’, Belarus",53.6667,23.8333
+312,"Hrubieszów, Lubelskie, Poland",50.8167,23.8833
+313,"Iaşi, Romania",47.1622,27.5889
+314,"Imielin, Śląskie, Poland",50.1478,19.1814
+315,"Inowrocław, Kujawsko-Pomorskie, Poland",52.7931,18.2611
+316,"Irbid, Jordan",32.55,35.85
+317,"Irákleio, Kríti, Greece",35.3403,25.1344
+318,"Islington, United Kingdom",51.544,-0.1027
+319,"Ismailia, Al Ismā‘īlīyah, Egypt",30.5833,32.2667
+320,"Isparta, Turkey",37.7647,30.5567
+321,"Istanbul, İstanbul, Turkey",41.0136,28.955
+322,"Ivano-Frankivsk, Ukraine",48.9228,24.7106
+323,"Ivanovo, Ivanovskaya Oblast’, Russia",56.9967,40.9819
+324,"Iława, Warmińsko-Mazurskie, Poland",53.5964,19.5656
+325,"Janów Lubelski, Lubelskie, Poland",50.7167,22.4167
+326,"Jarocin, Wielkopolskie, Poland",51.9667,17.5
+327,"Jarosław, Podkarpackie, Poland",50.0186,22.6797
+328,"Jasien, Pomorskie, Poland",54.3667,18.6333
+329,"Jastrzębie-Zdrój, Śląskie, Poland",49.95,18.5833
+330,"Jasło, Podkarpackie, Poland",49.7478,21.4714
+331,"Jawor, Dolnośląskie, Poland",51.05,16.2
+332,"Jaworzno, Śląskie, Poland",50.2044,19.27
+333,"Jelcz-Laskowice, Dolnośląskie, Poland",51.0333,17.3333
+334,"Jelenia Góra, Dolnośląskie, Poland",50.9033,15.7344
+335,"Jerez de la Frontera, Andalusia, Spain",36.6817,-6.1378
+336,"Jerusalem, Israel",31.7789,35.2256
+337,"Józefosław, Mazowieckie, Poland",52.1069,21.0392
+338,"Józefów, Mazowieckie, Poland",52.1356,21.2369
+339,"Jędrzejów, Świętokrzyskie, Poland",50.6333,20.3
+340,"Kafr ad Dawwār, Al Buḩayrah, Egypt",31.1311,30.13
+341,"Kafr Şaqr, Ash Sharqīyah, Egypt",30.7964,31.6261
+342,"Kahramanmaraş, Turkey",37.5833,36.9333
+343,"Kaliningrad, Russia",54.7003,20.4531
+344,"Kalisz, Wielkopolskie, Poland",51.7575,18.08
+345,"Kaluga, Kaluzhskaya Oblast’, Russia",54.55,36.2833
+346,"Kamianske, Dnipropetrovska Oblast, Ukraine",48.5167,34.6167
+347,"Kamienna Góra, Dolnośląskie, Poland",50.7833,16.0333
+348,"Kamień Pomorski, Zachodniopomorskie, Poland",53.97,14.7725
+349,"Karbalā’, Iraq",32.6167,44.0333
+350,"Karczew, Mazowieckie, Poland",52.0833,21.25
+351,"Karlsruhe, Baden-Württemberg, Germany",49.0092,8.404
+352,"Kartal, İstanbul, Turkey",40.8872,29.19
+353,"Kartuzy, Pomorskie, Poland",54.3333,18.2
+354,"Karşıyaka, İzmir, Turkey",38.4594,27.1153
+355,"Kassel, Hesse, Germany",51.3158,9.4979
+356,"Katowice, Śląskie, Poland",50.2625,19.0217
+357,"Kaunas, Kauno Miestas, Lithuania",54.8972,23.8861
+358,"Kayapınar, Diyarbakır, Turkey",37.95,40.1667
+359,"Kayseri, Turkey",38.7225,35.4875
+360,"Kenitra, Rabat-Salé-Kénitra, Morocco",34.25,-6.5833
+361,"Keçiören, Ankara, Turkey",40.0,32.8667
+362,"Kharkiv, Ukraine",49.9925,36.2311
+363,"Kherson, Ukraine",46.6425,32.625
+364,"Khimki, Moskovskaya Oblast’, Russia",55.8892,37.445
+365,"Khmelnytskyi, Khmelnytska Oblast, Ukraine",49.4167,27.0
+366,"Khénifra, Morocco",32.9394,-5.6675
+367,"Kiel, Schleswig-Holstein, Germany",54.3233,10.1394
+368,"Kielce, Świętokrzyskie, Poland",50.8742,20.6333
+369,"Kiełczów, Dolnośląskie, Poland",51.1406,17.1783
+370,"Kingston upon Hull, United Kingdom",53.7444,-0.3325
+371,"Kirkuk, Karkūk, Iraq",35.4667,44.3167
+372,"Kluczbork, Opolskie, Poland",50.9833,18.2167
+373,"Knurów, Śląskie, Poland",50.2167,18.6833
+374,"Kobyłka, Mazowieckie, Poland",52.3333,21.2
+375,"Kocaeli, Turkey",40.7625,29.9175
+376,"Kocasinan, Kayseri, Turkey",38.7333,35.4833
+377,"Kochłowice, Śląskie, Poland",50.2538,18.9015
+378,"Kokoszki, Pomorskie, Poland",54.3541,18.4915
+379,"Kolbuszowa, Podkarpackie, Poland",50.25,21.7667
+380,"Kolno, Podlaskie, Poland",53.4106,21.9339
+381,"Kolpino, Sankt-Peterburg, Russia",59.7333,30.6
+382,"Koluszki, Łódzkie, Poland",51.75,19.8
+383,"Komorniki, Wielkopolskie, Poland",52.3361,16.8069
+384,"Komorowice, Śląskie, Poland",49.8544,19.0406
+385,"Konak, İzmir, Turkey",38.4189,27.1285
+386,"Konin, Wielkopolskie, Poland",52.2167,18.2667
+387,"Konstancin-Jeziorna, Mazowieckie, Poland",52.0833,21.1167
+388,"Konstantynów Łódzki, Łódzkie, Poland",51.75,19.3333
+389,"Konya, Turkey",37.8667,32.4833
+390,"Korolëv, Moskovskaya Oblast’, Russia",55.9167,37.8167
+391,"Koronowo, Kujawsko-Pomorskie, Poland",53.3167,17.9333
+392,"Kostroma, Kostromskaya Oblast’, Russia",57.7681,40.9269
+393,"Kostrzyn nad Odrą, Lubuskie, Poland",52.5883,14.6667
+394,"Kostrzyń, Wielkopolskie, Poland",52.3941,17.2221
+395,"Koszalin, Zachodniopomorskie, Poland",54.2,16.1833
+396,"Koszutka, Śląskie, Poland",50.2711,19.0211
+397,"Kowary, Dolnośląskie, Poland",50.7917,15.8333
+398,"Kozienice, Mazowieckie, Poland",51.5833,21.5667
+399,"Kozy, Śląskie, Poland",49.845,19.1417
+400,"Koło, Wielkopolskie, Poland",52.2,18.6333
+401,"Kołobrzeg, Zachodniopomorskie, Poland",54.1761,15.5761
+402,"Końskie, Świętokrzyskie, Poland",51.2,20.4167
+403,"Kościan, Wielkopolskie, Poland",52.0833,16.65
+404,"Kościelisko, Małopolskie, Poland",49.2908,19.8883
+405,"Kościerzyna, Pomorskie, Poland",54.1167,17.9833
+406,"Košice, Slovakia",48.7167,21.25
+407,"Kożuchów, Lubuskie, Poland",51.75,15.6
+408,"Kraków, Małopolskie, Poland",50.0614,19.9372
+409,"Krapkowice, Opolskie, Poland",50.4667,17.9667
+410,"Krasnodar, Russia",45.0333,38.9667
+411,"Krasnystaw, Lubelskie, Poland",51.0,23.1667
+412,"Kraśnik, Lubelskie, Poland",50.9167,22.2167
+413,"Krefeld, North Rhine-Westphalia, Germany",51.3333,6.5667
+414,"Kremenchuk, Poltavska Oblast, Ukraine",49.0631,33.4039
+415,"Kropyvnytskyi, Kirovohradska Oblast, Ukraine",48.5,32.2667
+416,"Krosno Odrzańskie, Lubuskie, Poland",52.0333,15.1
+417,"Krosno, Podkarpackie, Poland",49.6833,21.75
+418,"Krotoszyn, Wielkopolskie, Poland",51.6833,17.4333
+419,"Kruszwica, Kujawsko-Pomorskie, Poland",52.6772,18.3292
+420,"Krynica, Małopolskie, Poland",49.4117,20.955
+421,"Kryvyi Rih, Dnipropetrovska Oblast, Ukraine",47.91,33.39
+422,"Krzeszowice, Małopolskie, Poland",50.1333,19.6333
+423,"Kudowa-Zdrój, Dolnośląskie, Poland",50.4383,16.2397
+424,"Kursk, Russia",51.7167,36.1833
+425,"Kutno, Łódzkie, Poland",52.2333,19.3667
+426,"Kwidzyn, Pomorskie, Poland",53.7358,18.9308
+427,"Kyiv, Ukraine",50.45,30.5233
+428,"Kâğıthane, İstanbul, Turkey",41.0719,28.9664
+429,"Kütahya, Turkey",39.4167,29.9833
+430,"Küçükçekmece, İstanbul, Turkey",41.0,28.8
+431,"Kędzierzyn-Koźle, Opolskie, Poland",50.35,18.2
+432,"Kępno, Wielkopolskie, Poland",51.2833,17.9833
+433,"Kętrzyn, Warmińsko-Mazurskie, Poland",54.0833,21.3833
+434,"Kęty, Małopolskie, Poland",49.9,19.2167
+435,"Kızıltepe, Mardin, Turkey",37.1939,40.5861
+436,"Kłobuck, Śląskie, Poland",50.9167,18.9333
+437,"Kłodzko, Dolnośląskie, Poland",50.4333,16.65
+438,"Latakia, Al Lādhiqīyah, Syria",35.5167,35.7833
+439,"Leeds, United Kingdom",53.7975,-1.5436
+440,"Legionowo, Mazowieckie, Poland",52.4,20.8833
+441,"Legnica, Dolnośląskie, Poland",51.2083,16.1603
+442,"Leicester, United Kingdom",52.6344,-1.1319
+443,"Leipzig, Saxony, Germany",51.34,12.375
+444,"Leszno, Wielkopolskie, Poland",51.8458,16.5806
+445,"Leżajsk, Podkarpackie, Poland",50.2667,22.4333
+446,"Libiąż, Małopolskie, Poland",50.1,19.3167
+447,"Lidzbark Warmiński, Warmińsko-Mazurskie, Poland",54.1167,20.5833
+448,"Lille, Hauts-de-France",50.6278,3.0583
+449,"Limanowa, Małopolskie, Poland",49.7006,20.4267
+450,"Limassol, Lemesós, Cyprus",34.6747,33.0442
+451,"Linz, Oberösterreich, Austria",48.3058,14.2864
+452,"Lipetsk, Russia",52.6167,39.6
+453,"Lipno, Kujawsko-Pomorskie, Poland",52.85,19.1667
+454,"Lisbon, Lisboa, Portugal",38.7253,-9.15
+455,"Liverpool, United Kingdom",53.4094,-2.9785
+456,"Ljubljana, Slovenia",46.0514,14.5061
+457,"London, United Kingdom",51.5072,-0.1275
+458,"Loures, Lisboa, Portugal",38.8333,-9.1667
+459,"Lubaczów, Podkarpackie, Poland",50.1667,23.1167
+460,"Lubartów, Lubelskie, Poland",51.4667,22.6
+461,"Lubawa, Warmińsko-Mazurskie, Poland",53.5,19.75
+462,"Lubań, Dolnośląskie, Poland",51.1181,15.2889
+463,"Lubin, Dolnośląskie, Poland",51.4,16.2
+464,"Lublin, Lubelskie, Poland",51.25,22.5667
+465,"Lubliniec, Śląskie, Poland",50.6833,18.6833
+466,"Luboń, Wielkopolskie, Poland",52.3333,16.8833
+467,"Lubsko, Lubuskie, Poland",51.7833,14.9667
+468,"Luhansk, Ukraine",48.5678,39.3031
+469,"Luton, United Kingdom",51.8783,-0.4147
+470,"Lutsk, Volynska Oblast, Ukraine",50.75,25.3358
+471,"Lviv, Ukraine",49.8425,24.0322
+472,"Lyon, Auvergne-Rhône-Alpes, France",45.76,4.84
+473,"Lyubertsy, Moskovskaya Oblast’, Russia",55.6783,37.8944
+474,"Lübeck, Schleswig-Holstein, Germany",53.8697,10.6864
+475,"Lębork, Pomorskie, Poland",54.55,17.75
+476,"Maastricht, Limburg, Netherlands",50.85,5.6833
+477,"Madrid, Spain",40.4169,-3.7033
+478,"Magdeburg, Saxony-Anhalt, Germany",52.1317,11.6392
+479,"Mahilyow, Belarus",53.9167,30.35
+480,"Mainz, Rhineland-Palatinate, Germany",49.9994,8.2736
+481,"Makiivka, Donetska Oblast, Ukraine",48.0556,37.9611
+482,"Maków Mazowiecki, Mazowieckie, Poland",52.8667,21.1
+483,"Malatya, Turkey",38.3486,38.3194
+484,"Malbork, Pomorskie, Poland",54.0333,19.0333
+485,"Malmö, Skåne, Sweden",55.6058,13.0358
+486,"Mamak, Ankara, Turkey",39.9422,32.9231
+487,"Manchester, United Kingdom",53.479,-2.2452
+488,"Manisa, Turkey",38.6144,27.4292
+489,"Mannheim, Baden-Württemberg, Germany",49.4878,8.4661
+490,"Mariupol, Donetska Oblast, Ukraine",47.0958,37.5494
+491,"Marki, Mazowieckie, Poland",52.3333,21.1
+492,"Marrakech, Morocco",31.63,-8.0089
+493,"Marseille, Provence-Alpes-Côte d’Azur, France",43.2964,5.37
+494,"Meknès, Morocco",33.895,-5.5547
+495,"Melikgazi, Kayseri, Turkey",38.7167,35.5
+496,"Menemen, İzmir, Turkey",38.6,27.0667
+497,"Meram, Konya, Turkey",37.8364,32.4383
+498,"Mersin, Turkey",36.8,34.6333
+499,"Messina, Sicilia, Italy",38.1936,15.5542
+500,"Mezitli, Mersin, Turkey",36.75,34.5333
+501,"Miastko, Pomorskie, Poland",54.0167,16.9833
+502,"Miechów, Małopolskie, Poland",50.3578,20.0325
+503,"Mielec, Podkarpackie, Poland",50.2833,21.4333
+504,"Mikołów, Śląskie, Poland",50.1667,18.9
+505,"Mikuszowice, Śląskie, Poland",49.7833,19.0703
+506,"Milan, Lombardy, Italy",45.4669,9.19
+507,"Milanówek, Mazowieckie, Poland",52.1167,20.65
+508,"Milicz, Dolnośląskie, Poland",51.5333,17.2833
+509,"Milton Keynes, United Kingdom",52.04,-0.76
+510,"Minsk, Belarus",53.9,27.5667
+511,"Międzychód, Wielkopolskie, Poland",52.6,15.8833
+512,"Międzyrzec Podlaski, Lubelskie, Poland",51.9833,22.7833
+513,"Międzyrzecz, Lubuskie, Poland",52.4483,15.5883
+514,"Mińsk Mazowiecki, Mazowieckie, Poland",52.1833,21.5667
+515,"Mişrātah, Libya",32.3775,15.092
+516,"Mogilno, Kujawsko-Pomorskie, Poland",52.65,17.95
+517,"Mohammedia, Casablanca-Settat, Morocco",33.6833,-7.3833
+518,"Montpellier, Occitanie, France",43.6119,3.8772
+519,"Morąg, Warmińsko-Mazurskie, Poland",53.9167,19.9333
+520,"Moscow, Moskva, Russia",55.7558,37.6172
+521,"Mosina, Wielkopolskie, Poland",52.2467,16.845
+522,"Mosul, Nīnawá, Iraq",36.34,43.13
+523,"Mońki, Podlaskie, Poland",53.4,22.8
+524,"Mrągowo, Warmińsko-Mazurskie, Poland",53.8667,21.3
+525,"Munich, Bavaria, Germany",48.1375,11.575
+526,"Murcia, Spain",37.9861,-1.1303
+527,"Murmansk, Russia",68.9706,33.075
+528,"Murowana Goślina, Wielkopolskie, Poland",52.5667,17.0167
+529,"Mykolaiv, Ukraine",46.975,31.995
+530,"Myszków, Śląskie, Poland",50.5706,19.3144
+531,"Mysłowice, Śląskie, Poland",50.2333,19.1333
+532,"Mytishchi, Moskovskaya Oblast’, Russia",55.9167,37.7667
+533,"Myślenice, Małopolskie, Poland",49.8347,19.9389
+534,"Myślibórz, Zachodniopomorskie, Poland",52.9333,14.8667
+535,"Málaga, Andalusia, Spain",36.7194,-4.42
+536,"Móstoles, Madrid, Spain",40.3333,-3.8667
+537,"Mönchengladbach, North Rhine-Westphalia, Germany",51.2,6.4333
+538,"Münster, North Rhine-Westphalia, Germany",51.9625,7.6256
+539,"Mława, Mazowieckie, Poland",53.1167,20.3667
+540,"Nakło nad Notecią, Kujawsko-Pomorskie, Poland",53.1403,17.5928
+541,"Nalchik, Kabardino-Balkariya, Russia",43.4833,43.6167
+542,"Namysłów, Opolskie, Poland",51.0728,17.7069
+543,"Nantes, Pays de la Loire, France",47.2181,-1.5528
+544,"Naples, Campania, Italy",40.8333,14.25
+545,"Netanya, Central, Israel",32.3286,34.8567
+546,"Newcastle, United Kingdom",54.978,-1.6102
+547,"Nice, Provence-Alpes-Côte d’Azur, France",43.7034,7.2663
+548,"Nicosia, Lefkosía, Cyprus",35.1725,33.365
+549,"Nidzica, Warmińsko-Mazurskie, Poland",53.3583,20.425
+550,"Niepołomice, Małopolskie, Poland",50.0339,20.2172
+551,"Nilüfer, Bursa, Turkey",40.2833,28.95
+552,"Nisko, Podkarpackie, Poland",50.52,22.1394
+553,"Nizhniy Novgorod, Nizhegorodskaya Oblast’, Russia",56.3269,44.0075
+554,"Northampton, United Kingdom",52.2304,-0.8938
+555,"Norwich, Norfolk, United Kingdom",52.6286,1.2928
+556,"Nottingham, United Kingdom",52.9561,-1.1512
+557,"Novi Sad, Serbia",45.2542,19.8425
+558,"Novorossiysk, Krasnodarskiy Kray, Russia",44.7167,37.7833
+559,"Nowa Dęba, Podkarpackie, Poland",50.4167,21.7667
+560,"Nowa Ruda, Dolnośląskie, Poland",50.5833,16.5
+561,"Nowa Sól, Lubuskie, Poland",51.8,15.7167
+562,"Nowe Miasto Lubawskie, Warmińsko-Mazurskie, Poland",53.4256,19.5878
+563,"Nowogard, Zachodniopomorskie, Poland",53.6667,15.1167
+564,"Nowy Dwór Gdański, Pomorskie, Poland",54.2167,19.1167
+565,"Nowy Dwór Mazowiecki, Mazowieckie, Poland",52.4333,20.7167
+566,"Nowy Sącz, Małopolskie, Poland",49.6239,20.6972
+567,"Nowy Targ, Małopolskie, Poland",49.4667,20.0167
+568,"Nowy Tomyśl, Wielkopolskie, Poland",52.3167,16.1333
+569,"Nuremberg, Bavaria, Germany",49.4539,11.0775
+570,"Nysa, Opolskie, Poland",50.4714,17.3339
+571,"Nyíregyháza, Szabolcs-Szatmár-Bereg, Hungary",47.9531,21.7271
+572,"Oberhausen, North Rhine-Westphalia, Germany",51.4967,6.8706
+573,"Oborniki Śląskie, Dolnośląskie, Poland",51.2986,16.9017
+574,"Oborniki, Wielkopolskie, Poland",52.65,16.8167
+575,"Odesa, Odeska Oblast, Ukraine",46.4775,30.7326
+576,"Olecko, Warmińsko-Mazurskie, Poland",54.0333,22.5
+577,"Olesno, Opolskie, Poland",50.875,18.4167
+578,"Oleśnica, Dolnośląskie, Poland",51.2,17.3833
+579,"Olkusz, Małopolskie, Poland",50.2833,19.5667
+580,"Olsztyn, Warmińsko-Mazurskie, Poland",53.7778,20.4792
+581,"Opalenica, Wielkopolskie, Poland",52.3078,16.4136
+582,"Opoczno, Łódzkie, Poland",51.3772,20.2869
+583,"Opole, Opolskie, Poland",50.6667,17.9333
+584,"Ordu, Turkey",40.9833,37.8833
+585,"Orzesze, Śląskie, Poland",50.15,18.75
+586,"Orël, Orlovskaya Oblast’, Russia",52.9686,36.0694
+587,"Oslo, Norway",59.9133,10.7389
+588,"Osmangazi, Bursa, Turkey",40.1983,29.06
+589,"Osmaniye, Turkey",37.075,36.25
+590,"Osowa, Pomorskie, Poland",54.4272,18.4708
+591,"Ostrava, Moravskoslezský Kraj, Czechia",49.8356,18.2925
+592,"Ostrowiec Świętokrzyski, Świętokrzyskie, Poland",50.9333,21.4
+593,"Ostrołęka, Mazowieckie, Poland",53.0667,21.5667
+594,"Ostrzeszów, Wielkopolskie, Poland",51.4167,17.9333
+595,"Ostróda, Warmińsko-Mazurskie, Poland",53.7,19.9667
+596,"Ostrów Mazowiecka, Mazowieckie, Poland",52.8,21.9
+597,"Ostrów Wielkopolski, Wielkopolskie, Poland",51.6494,17.8164
+598,"Otwock, Mazowieckie, Poland",52.1167,21.2667
+599,"Oujda-Angad, Oriental, Morocco",34.6867,-1.9114
+600,"Oulu, Pohjois-Pohjanmaa, Finland",65.0142,25.4719
+601,"Oviedo, Asturias, Spain",43.36,-5.845
+602,"Ozorków, Łódzkie, Poland",51.9667,19.2833
+603,"Oława, Dolnośląskie, Poland",50.9333,17.3
+604,"Oświęcim, Małopolskie, Poland",50.0381,19.2214
+605,"Ożarów Mazowiecki, Mazowieckie, Poland",52.2167,20.8
+606,"Pabianice, Łódzkie, Poland",51.65,19.3833
+607,"Padova, Veneto, Italy",45.4167,11.8667
+608,"Palermo, Sicilia, Italy",38.1111,13.3517
+609,"Palma, Balearic Islands, Spain",39.5667,2.65
+610,"Pamplona, Navarre, Spain",42.8167,-1.65
+611,"Pamukkale, Denizli, Turkey",37.9167,29.1167
+612,"Parczew, Lubelskie, Poland",51.6333,22.8667
+613,"Paris, Île-de-France",48.8567,2.3522
+614,"Pasłęk, Warmińsko-Mazurskie, Poland",54.05,19.6667
+615,"Pendik, İstanbul, Turkey",40.8747,29.235
+616,"Penza, Penzenskaya Oblast’, Russia",53.2,45.0
+617,"Petaẖ Tiqwa, Central, Israel",32.0889,34.8864
+618,"Petrel, Valencia, Spain",38.4789,-0.7967
+619,"Petrozavodsk, Kareliya, Russia",61.7833,34.3333
+620,"Piaseczno, Mazowieckie, Poland",52.0667,21.0167
+621,"Piastów, Mazowieckie, Poland",52.1833,20.85
+622,"Piekary Śląskie, Śląskie, Poland",50.3833,18.95
+623,"Pionki, Mazowieckie, Poland",51.4833,21.45
+624,"Piotrków Trybunalski, Łódzkie, Poland",51.4,19.6833
+625,"Piraeus, Attikí, Greece",37.943,23.6469
+626,"Pisz, Warmińsko-Mazurskie, Poland",53.6167,21.8
+627,"Piła, Wielkopolskie, Poland",53.15,16.7333
+628,"Pińczów, Świętokrzyskie, Poland",50.5333,20.5333
+629,"Pleszew, Wielkopolskie, Poland",51.8833,17.7833
+630,"Plewiska, Wielkopolskie, Poland",52.3664,16.8089
+631,"Plovdiv, Bulgaria",42.15,24.75
+632,"Plymouth, United Kingdom",50.3714,-4.1422
+633,"Pobiedziska, Wielkopolskie, Poland",52.4833,17.4833
+634,"Podgórze, Małopolskie, Poland",50.0417,19.9833
+635,"Podolsk, Moskovskaya Oblast’, Russia",55.4311,37.5456
+636,"Police, Zachodniopomorskie, Poland",53.5333,14.5667
+637,"Polkowice, Dolnośląskie, Poland",51.5,16.0667
+638,"Poltava, Poltavska Oblast, Ukraine",49.5894,34.5514
+639,"Poniatowa, Lubelskie, Poland",51.1928,22.0647
+640,"Port Said, Būr Sa‘īd, Egypt",31.2625,32.3061
+641,"Porto, Portugal",41.1621,-8.622
+642,"Portsmouth, United Kingdom",50.8058,-1.0872
+643,"Poznań, Wielkopolskie, Poland",52.4083,16.9336
+644,"Prague, Praha, Czechia",50.0875,14.4214
+645,"Prizren, Kosovo",42.2128,20.7392
+646,"Prudnik, Opolskie, Poland",50.3228,17.5767
+647,"Pruszcz Gdański, Pomorskie, Poland",54.2667,18.6333
+648,"Pruszków, Mazowieckie, Poland",52.1667,20.8
+649,"Przasnysz, Mazowieckie, Poland",53.0167,20.8833
+650,"Przemyśl, Podkarpackie, Poland",49.7833,22.7667
+651,"Przeworsk, Podkarpackie, Poland",50.0667,22.5
+652,"Pskov, Russia",57.8167,28.3333
+653,"Pszczyna, Śląskie, Poland",49.9833,18.95
+654,"Puck, Pomorskie, Poland",54.7,18.4
+655,"Puszczykowo, Wielkopolskie, Poland",52.2817,16.8542
+656,"Puławy, Lubelskie, Poland",51.4167,21.9667
+657,"Pułtusk, Mazowieckie, Poland",52.7,21.0833
+658,"Pyrzyce, Zachodniopomorskie, Poland",53.1333,14.8833
+659,"Pyskowice, Śląskie, Poland",50.3833,18.6167
+660,"Pécs, Baranya, Hungary",46.0711,18.2331
+661,"Płock, Mazowieckie, Poland",52.55,19.7
+662,"Płońsk, Mazowieckie, Poland",52.6333,20.3833
+663,"Qillīn, Kafr ash Shaykh, Egypt",31.0464,30.8546
+664,"Rabat, Morocco",34.0209,-6.8416
+665,"Racibórz, Śląskie, Poland",50.0833,18.2333
+666,"Radom, Mazowieckie, Poland",51.4036,21.1567
+667,"Radomsko, Łódzkie, Poland",51.0667,19.45
+668,"Radzionków Nowy, Śląskie, Poland",50.3833,18.8833
+669,"Radzymin, Mazowieckie, Poland",52.4167,21.1833
+670,"Radzyń Podlaski, Lubelskie, Poland",51.7828,22.6242
+671,"Rawa Mazowiecka, Łódzkie, Poland",51.7658,20.2533
+672,"Rawicz, Wielkopolskie, Poland",51.6092,16.8575
+673,"Reading, United Kingdom",51.4542,-0.9731
+674,"Reda, Pomorskie, Poland",54.6167,18.35
+675,"Rennes, Bretagne, France",48.1147,-1.6794
+676,"Riga, Rīga, Latvia",56.9489,24.1064
+677,"Rishon LeẔiyyon, Central, Israel",31.95,34.8
+678,"Rivne, Ukraine",50.6192,26.2519
+679,"Rogoźno, Wielkopolskie, Poland",52.7492,16.9997
+680,"Rome, Lazio, Italy",41.8933,12.4828
+681,"Ropczyce, Podkarpackie, Poland",50.0861,21.6333
+682,"Rostock, Mecklenburg-Western Pomerania, Germany",54.0833,12.1333
+683,"Rostov, Russia",47.2225,39.71
+684,"Rotterdam, Zuid-Holland, Netherlands",51.92,4.48
+685,"Ruda Śląska, Śląskie, Poland",50.2628,18.8536
+686,"Rumia, Pomorskie, Poland",54.5667,18.4
+687,"Rury, Lubelskie, Poland",51.2386,22.5164
+688,"Ryazan, Russia",54.63,39.7425
+689,"Rybnik, Śląskie, Poland",50.0833,18.55
+690,"Ryki, Lubelskie, Poland",51.6333,21.9333
+691,"Rypin, Kujawsko-Pomorskie, Poland",53.0667,19.45
+692,"Rzeszów, Podkarpackie, Poland",50.0333,22.0
+693,"Râs el-Barr, Ad Daqahlīyah, Egypt",31.5125,31.8256
+694,"Rāniyah, As Sulaymānīyah, Iraq",36.255,44.8836
+695,"Sabadell, Catalonia, Spain",41.5486,2.1075
+696,"Sab‘ al Būr, Baghdād, Iraq",33.4644,44.1536
+697,"Safi, Morocco",32.2833,-9.2333
+698,"Saint Petersburg, Sankt-Peterburg, Russia",59.9375,30.3086
+699,"Sakarya, Turkey",40.7833,30.4
+700,"Sale, Rabat-Salé-Kénitra, Morocco",34.0333,-6.8
+701,"Samsun, Turkey",41.2903,36.3336
+702,"Sandnes, Rogaland, Norway",58.8517,5.7361
+703,"Sandomierz, Świętokrzyskie, Poland",50.6833,21.75
+704,"Sanok, Podkarpackie, Poland",49.55,22.2167
+705,"Sarajevo, Bosnia and Herzegovina, Federation of",43.8564,18.4131
+706,"Sarıyer, İstanbul, Turkey",41.1669,29.0572
+707,"Sarıçam, Adana, Turkey",37.0333,35.4167
+708,"Sawrān, Arbīl, Iraq",36.6606,44.5508
+709,"Selçuklu, Konya, Turkey",37.8814,32.4922
+710,"Sevastopol, Ukraine",44.605,33.5225
+711,"Sevilla, Andalusia, Spain",37.39,-5.99
+712,"Seyhan, Adana, Turkey",36.9831,35.3328
+713,"Sfax, Tunisia",34.74,10.76
+714,"Shakhty, Rostovskaya Oblast’, Russia",47.7,40.2333
+715,"Sheffield, United Kingdom",53.3808,-1.4703
+716,"Shibīn al Kawm, Al Minūfīyah, Egypt",30.5586,31.01
+717,"Shibīn al Qanāţir, Al Qalyūbīyah, Egypt",30.3133,31.3214
+718,"Shubrā al Khaymah, Al Qalyūbīyah, Egypt",30.1286,31.2422
+719,"Shubrākhīt, Al Buḩayrah, Egypt",31.0275,30.7128
+720,"Sidi Aïssa, M’sila, Algeria",36.5,4.2978
+721,"Sidi Bel Abbès, Algeria",35.1939,-0.6414
+722,"Sidi Bouzid, Tunisia",35.0381,9.4858
+723,"Sidlice, Pomorskie, Poland",54.3471,18.6171
+724,"Siechnice, Dolnośląskie, Poland",51.0367,17.1525
+725,"Siedlce, Mazowieckie, Poland",52.165,22.2714
+726,"Siemianowice Śląskie, Śląskie, Poland",50.2758,18.9858
+727,"Siemiatycze, Podlaskie, Poland",52.4272,22.8625
+728,"Sieradz, Łódzkie, Poland",51.6,18.75
+729,"Sierpc, Mazowieckie, Poland",52.8833,19.6667
+730,"Simferopol, Krym, Avtonomna Respublika, Ukraine",44.9519,34.1022
+731,"Sincan, Ankara, Turkey",39.9594,32.5767
+732,"Sintra, Lisboa, Portugal",38.7992,-9.3883
+733,"Sivas, Turkey",39.75,37.0167
+734,"Siverek, Şanlıurfa, Turkey",37.75,39.3167
+735,"Skarżysko-Kamienna, Świętokrzyskie, Poland",51.1167,20.9167
+736,"Skawina, Małopolskie, Poland",49.9833,19.8333
+737,"Skierniewice, Łódzkie, Poland",51.9528,20.1417
+738,"Skoczów, Śląskie, Poland",49.8006,18.7883
+739,"Skopje, North Macedonia",41.9961,21.4317
+740,"Skwierzyna, Lubuskie, Poland",52.6,15.5
+741,"Smolensk, Russia",54.7828,32.0453
+742,"Sochaczew, Mazowieckie, Poland",52.2333,20.2333
+743,"Sochi, Krasnodarskiy Kray, Russia",43.5853,39.7203
+744,"Sofia, Bulgaria",42.7,23.33
+745,"Sokołów Podlaski, Mazowieckie, Poland",52.4067,22.2464
+746,"Sokółka, Podlaskie, Poland",53.4,23.5
+747,"Solec Kujawski, Kujawsko-Pomorskie, Poland",53.0833,18.2333
+748,"Solihull, United Kingdom",52.413,-1.778
+749,"Sopot, Pomorskie, Poland",54.4333,18.55
+750,"Sosnowiec, Śląskie, Poland",50.2833,19.1333
+751,"Sousse, Tunisia",35.8333,10.6333
+752,"Southampton, United Kingdom",50.9025,-1.4042
+753,"Stalowa Wola, Podkarpackie, Poland",50.5667,22.05
+754,"Starachowice, Świętokrzyskie, Poland",51.05,21.0667
+755,"Stargard Szczeciński, Zachodniopomorskie, Poland",53.3333,15.0333
+756,"Starogard Gdański, Pomorskie, Poland",53.9667,18.5333
+757,"Stary Sącz, Małopolskie, Poland",49.5625,20.6364
+758,"Staryy Oskol, Belgorodskaya Oblast’, Russia",51.3,37.8333
+759,"Staszów, Świętokrzyskie, Poland",50.5633,21.1717
+760,"Stavanger, Rogaland, Norway",58.97,5.7314
+761,"Stavropol, Russia",45.05,41.9833
+762,"Stockholm, Sweden",59.3294,18.0686
+763,"Stoke-on-Trent, United Kingdom",53.0,-2.1833
+764,"Strasbourg, Grand Est, France",48.5833,7.7458
+765,"Strzegom, Dolnośląskie, Poland",50.9611,16.3444
+766,"Strzelce Krajeńskie, Lubuskie, Poland",52.8756,15.5319
+767,"Strzelce Opolskie, Opolskie, Poland",50.5,18.2833
+768,"Strzelin, Dolnośląskie, Poland",50.7833,17.0667
+769,"Stuttgart, Baden-Württemberg, Germany",48.7775,9.18
+770,"Sucha Beskidzka, Małopolskie, Poland",49.7403,19.5886
+771,"Suchanino, Pomorskie, Poland",54.3667,18.65
+772,"Sulechów, Lubuskie, Poland",52.0833,15.6167
+773,"Sulejówek, Mazowieckie, Poland",52.2442,21.28
+774,"Sultanbeyli, İstanbul, Turkey",40.9683,29.2617
+775,"Sulęcin, Lubuskie, Poland",52.45,15.1167
+776,"Sumy, Sumska Oblast, Ukraine",50.9119,34.8028
+777,"Sunderland, United Kingdom",54.906,-1.381
+778,"Suwałki, Podlaskie, Poland",54.0989,22.9286
+779,"Swarzędz, Wielkopolskie, Poland",52.4083,17.0714
+780,"Swindon, United Kingdom",51.56,-1.78
+781,"Syców, Dolnośląskie, Poland",51.31,17.7236
+782,"Szamotuły, Wielkopolskie, Poland",52.6,16.5833
+783,"Szczecin, Zachodniopomorskie, Poland",53.4325,14.5481
+784,"Szczecinek, Zachodniopomorskie, Poland",53.7167,16.6833
+785,"Szczytno, Warmińsko-Mazurskie, Poland",53.5628,20.9853
+786,"Szeged, Csongrád-Csanád, Hungary",46.255,20.145
+787,"Szprotawa, Lubuskie, Poland",51.5667,15.5
+788,"Sztum, Pomorskie, Poland",53.9217,19.0336
+789,"Szubin, Kujawsko-Pomorskie, Poland",53.0167,17.75
+790,"Szydłowiec, Mazowieckie, Poland",51.2333,20.85
+791,"Székesfehérvár, Fejér, Hungary",47.1956,18.4089
+792,"Sétif, Algeria",36.19,5.41
+793,"Sędziszów Małopolski, Podkarpackie, Poland",50.0694,21.7014
+794,"Sępólno Krajeńskie, Kujawsko-Pomorskie, Poland",53.45,17.53
+795,"Sławno, Zachodniopomorskie, Poland",54.3667,16.6833
+796,"Słubice, Lubuskie, Poland",52.35,14.5667
+797,"Słupca, Wielkopolskie, Poland",52.3,17.8667
+798,"Słupsk, Pomorskie, Poland",54.4658,17.0292
+799,"Taganrog, Rostovskaya Oblast’, Russia",47.2167,38.9167
+800,"Tallinn, Estonia",59.4372,24.7453
+801,"Talā, Al Minūfīyah, Egypt",30.6801,30.9438
+802,"Tambov, Russia",52.7231,41.4539
+803,"Tampere, Pirkanmaa, Finland",61.4981,23.76
+804,"Tangier, Tanger-Tétouan-Al Hoceïma, Morocco",35.7767,-5.8039
+805,"Taourirt, Oriental, Morocco",34.4169,-2.885
+806,"Tarnobrzeg, Podkarpackie, Poland",50.5833,21.6833
+807,"Tarnowskie Góry, Śląskie, Poland",50.4444,18.8583
+808,"Tarnów, Małopolskie, Poland",50.0125,20.9886
+809,"Tarrasa, Catalonia, Spain",41.57,2.013
+810,"Tarsus, Mersin, Turkey",36.9165,34.8951
+811,"Tbilisi, Georgia",41.7225,44.7925
+812,"Tczew, Pomorskie, Poland",54.0875,18.7972
+813,"Tekirdağ, Turkey",40.9778,27.5153
+814,"Tel Aviv-Yafo, Tel Aviv, Israel",32.08,34.78
+815,"Temara, Rabat-Salé-Kénitra, Morocco",33.9267,-6.9122
+816,"Ternopil, Ukraine",49.5667,25.6
+817,"The Hague, Zuid-Holland, Netherlands",52.08,4.31
+818,"Thessaloníki, Kentrikí Makedonía, Greece",40.6403,22.9347
+819,"Tilburg, Noord-Brabant, Netherlands",51.55,5.0833
+820,"Timayy al Imdīd, Ad Daqahlīyah, Egypt",30.9438,31.5293
+821,"Timişoara, Timiş, Romania",45.7597,21.23
+822,"Tirana, Tiranë, Albania",41.3289,19.8178
+823,"Tomaszów Lubelski, Lubelskie, Poland",50.45,23.4167
+824,"Tomaszów Mazowiecki, Łódzkie, Poland",51.5167,20.0167
+825,"Toruń, Kujawsko-Pomorskie, Poland",53.0222,18.6111
+826,"Toulouse, Occitanie, France",43.6045,1.444
+827,"Trabzon, Turkey",41.005,39.7225
+828,"Tripoli, Liban-Nord, Lebanon",34.4367,35.8344
+829,"Tripoli, Ţarābulus, Libya",32.8872,13.1914
+830,"Trondheim, Trøndelag, Norway",63.4297,10.3933
+831,"Trzcianka, Wielkopolskie, Poland",53.05,16.4667
+832,"Trzebiatów, Zachodniopomorskie, Poland",54.0572,15.2786
+833,"Trzebinia, Małopolskie, Poland",50.1667,19.4833
+834,"Trzebnica, Dolnośląskie, Poland",51.305,17.0614
+835,"Tuchola, Kujawsko-Pomorskie, Poland",53.6,17.85
+836,"Tula, Tul’skaya Oblast’, Russia",54.2,37.6167
+837,Tunis,36.8064,10.1817
+838,"Turek, Wielkopolskie, Poland",52.0167,18.5
+839,"Turin, Piedmont, Italy",45.0792,7.6761
+840,"Turku, Varsinais-Suomi, Finland",60.45,22.2667
+841,"Tuzla, İstanbul, Turkey",40.8161,29.3006
+842,"Tver, Russia",56.8625,35.9242
+843,"Tychy, Śląskie, Poland",50.1236,18.9867
+844,"Tétouan, Morocco",35.5667,-5.3667
+845,"Umraniye, İstanbul, Turkey",41.0311,29.1081
+846,"Ustka, Pomorskie, Poland",54.5833,16.85
+847,"Ustroń, Śląskie, Poland",49.7194,18.8119
+848,"Ustrzyki Dolne, Podkarpackie, Poland",49.4297,22.5867
+849,"Utrecht, Netherlands",52.0908,5.1217
+850,"Uşak, Turkey",38.6778,29.4042
+851,"Valencia, Spain",39.47,-0.3764
+852,"Valladolid, Castille-Leon, Spain",41.6528,-4.7236
+853,"Valletta, Malta",35.8983,14.5125
+854,"Van, Turkey",38.4942,43.38
+855,"Vantaa, Uusimaa, Finland",60.2944,25.0403
+856,"Varna, Bulgaria",43.2167,27.9167
+857,"Velikiy Novgorod, Novgorodskaya Oblast’, Russia",58.55,31.2667
+858,"Venice, Veneto, Italy",45.4375,12.3358
+859,"Verona, Veneto, Italy",45.4386,10.9928
+860,"Vienna, Wien, Austria",48.2083,16.3725
+861,"Vigo, Galicia, Spain",42.2314,-8.7124
+862,"Vila Nova de Gaia, Porto, Portugal",41.1333,-8.6167
+863,"Vilnius, Vilniaus Miestas, Lithuania",54.6872,25.28
+864,"Vinnytsia, Vinnytska Oblast, Ukraine",49.2333,28.4833
+865,"Vitoria-Gasteiz, Basque Country, Spain",42.85,-2.6833
+866,"Vitsyebsk, Belarus",55.1917,30.2056
+867,"Vladikavkaz, North Ossetia, Russia",43.04,44.6775
+868,"Vladimir, Russia",56.1286,40.4058
+869,"Volgograd, Russia",48.7086,44.5147
+870,"Vologda, Vologodskaya Oblast’, Russia",59.2167,39.9
+871,"Volzhskiy, Volgogradskaya Oblast’, Russia",48.8056,44.7417
+872,"Voronezh, Russia",51.6717,39.2106
+873,"Wadowice, Małopolskie, Poland",49.8833,19.5
+874,"Wapienica, Śląskie, Poland",49.8083,18.9839
+875,"Warka, Mazowieckie, Poland",51.7833,21.2
+876,"Warsaw, Mazowieckie, Poland",52.23,21.0111
+877,"Wasilków, Podlaskie, Poland",53.205,23.2044
+878,"Wałbrzych, Dolnośląskie, Poland",50.7667,16.2833
+879,"Wałcz, Zachodniopomorskie, Poland",53.2667,16.4667
+880,"Wejherowo, Pomorskie, Poland",54.6,18.25
+881,"Westminster, United Kingdom",51.4947,-0.1353
+882,"Wieliczka, Małopolskie, Poland",49.9894,20.0661
+883,"Wieluń, Łódzkie, Poland",51.2206,18.57
+884,"Wieruszów, Łódzkie, Poland",51.3,18.15
+885,"Wiesbaden, Hesse, Germany",50.0825,8.24
+886,"Wisła, Śląskie, Poland",49.6549,18.8595
+887,"Wodzisław Śląski, Śląskie, Poland",50.0,18.45
+888,"Wolsztyn, Wielkopolskie, Poland",52.1167,16.1167
+889,"Wolverhampton, United Kingdom",52.5833,-2.1333
+890,"Worthing, West Sussex, United Kingdom",50.8147,-0.3714
+891,"Wołomin, Mazowieckie, Poland",52.35,21.2333
+892,"Wołów, Dolnośląskie, Poland",51.3414,16.6283
+893,"Wrocław, Dolnośląskie, Poland",51.11,17.0325
+894,"Wronki, Wielkopolskie, Poland",52.7,16.3833
+895,"Września, Wielkopolskie, Poland",52.3333,17.5833
+896,"Wschowa, Lubuskie, Poland",51.8,16.3
+897,"Wuppertal, North Rhine-Westphalia, Germany",51.2667,7.1833
+898,"Wysokie Mazowieckie, Podlaskie, Poland",52.9192,22.5144
+899,"Wyszków, Mazowieckie, Poland",52.5928,21.4584
+900,"Wąbrzeźno, Kujawsko-Pomorskie, Poland",53.2833,18.95
+901,"Wągrowiec, Wielkopolskie, Poland",52.8,17.2
+902,"Węgorzewo, Warmińsko-Mazurskie, Poland",54.2167,21.75
+903,"Węgrów, Mazowieckie, Poland",52.4,22.0167
+904,"Władysławowo, Pomorskie, Poland",54.8339,18.3156
+905,"Włocławek, Kujawsko-Pomorskie, Poland",52.6592,19.0681
+906,"Włodawa, Lubelskie, Poland",51.55,23.55
+907,"Włoszczowa, Świętokrzyskie, Poland",50.8542,19.9669
+908,"Yaroslavl, Yaroslavskaya Oblast’, Russia",57.6167,39.85
+909,"Yenimahalle, Ankara, Turkey",39.9719,32.8119
+910,"Yenişehir, Diyarbakır, Turkey",37.9333,40.2333
+911,"Yerevan, Armenia",40.1814,44.5144
+912,"Yeşilyurt, Malatya, Turkey",38.2961,38.2489
+913,"Yukarıkaraman, Antalya, Turkey",36.9167,30.6833
+914,"Yüreğir, Adana, Turkey",36.9981,35.3439
+915,"Yıldırım, Bursa, Turkey",40.11,29.0821
+916,"Zabrze, Śląskie, Poland",50.3025,18.7781
+917,"Zagreb, Croatia",45.8131,15.9775
+918,"Zakopane, Małopolskie, Poland",49.3,19.95
+919,"Zambrów, Podlaskie, Poland",52.9833,22.25
+920,"Zamość, Lubelskie, Poland",50.7167,23.2528
+921,"Zaporizhzhia, Zaporizka Oblast, Ukraine",47.85,35.1175
+922,"Zaragoza, Aragon, Spain",41.65,-0.8833
+923,"Zawiercie, Śląskie, Poland",50.5,19.4167
+924,"Zawodzie, Śląskie, Poland",50.2585,19.0449
+925,"Załęże, Śląskie, Poland",50.2672,18.9892
+926,"Zduńska Wola, Łódzkie, Poland",51.6,18.9667
+927,"Zdzieszowice, Opolskie, Poland",50.4192,18.1236
+928,"Zgierz, Łódzkie, Poland",51.85,19.4167
+929,"Zgorzelec, Dolnośląskie, Poland",51.15,15.0083
+930,"Zhytomyr, Ukraine",50.25,28.6667
+931,"Zielona Góra, Lubuskie, Poland",51.9333,15.5
+932,"Zielonka, Mazowieckie, Poland",52.3008,21.1586
+933,"Zürich, Switzerland",47.3744,8.5411
+934,"Ząbki, Mazowieckie, Poland",52.2928,21.1161
+935,"Ząbkowice Śląskie, Dolnośląskie, Poland",50.5833,16.8167
+936,"Złocieniec, Zachodniopomorskie, Poland",53.5269,16.0122
+937,"Złotoryja, Dolnośląskie, Poland",51.1333,15.9167
+938,"Złotów, Wielkopolskie, Poland",53.3603,17.0408
+939,"Çankaya, Ankara, Turkey",39.9244,32.8856
+940,"Çekme, İstanbul, Turkey",41.0369,29.1786
+941,"Çiğli, İzmir, Turkey",38.4833,27.05
+942,"Çorlu, Tekirdağ, Turkey",41.15,27.8
+943,"İnegöl, Bursa, Turkey",40.0806,29.5097
+944,"İskenderun, Hatay, Turkey",36.5817,36.165
+945,"İzmir, Turkey",38.42,27.14
+946,"Łapy, Podlaskie, Poland",52.9833,22.8833
+947,"Łask, Łódzkie, Poland",51.5903,19.1333
+948,"Łaziska Górne, Śląskie, Poland",50.15,18.85
+949,"Łańcut, Podkarpackie, Poland",50.0667,22.2333
+950,"Łobez, Zachodniopomorskie, Poland",53.6333,15.6167
+951,"Łomianki, Mazowieckie, Poland",52.3333,20.8833
+952,"Łomża, Podlaskie, Poland",53.1764,22.0731
+953,"Łowicz, Łódzkie, Poland",52.1,19.9333
+954,"Łuków, Lubelskie, Poland",51.9272,22.3833
+955,"Łódź, Łódzkie, Poland",51.7769,19.4547
+956,"Łęczna, Lubelskie, Poland",51.3,22.8833
+957,"Łęczyca, Łódzkie, Poland",52.05,19.2
+958,"Śrem, Wielkopolskie, Poland",52.0886,17.0147
+959,"Środa Wielkopolska, Wielkopolskie, Poland",52.2333,17.2833
+960,"Środa Śląska, Dolnośląskie, Poland",51.15,16.5833
+961,"Świdnica, Dolnośląskie, Poland",50.85,16.4833
+962,"Świdnik, Lubelskie, Poland",51.2167,22.7
+963,"Świdwin, Zachodniopomorskie, Poland",53.7833,15.7667
+964,"Świebodzice, Dolnośląskie, Poland",50.8667,16.3333
+965,"Świecie, Kujawsko-Pomorskie, Poland",53.4167,18.4333
+966,"Świedbodzin, Lubuskie, Poland",52.25,15.5333
+967,"Świnoujście, Zachodniopomorskie, Poland",53.9167,14.25
+968,"Świętochłowice, Śląskie, Poland",50.2919,18.9178
+969,"Şanlıurfa, Turkey",37.1583,38.7917
+970,"Ţalkhā, Ad Daqahlīyah, Egypt",31.0547,31.3756
+971,"Ţanţā, Al Gharbīyah, Egypt",30.7833,31.0
+972,"Ţūkh, Al Qalyūbīyah, Egypt",30.3539,31.2007
+973,"Żagań, Lubuskie, Poland",51.6167,15.3167
+974,"Żary, Lubuskie, Poland",51.6333,15.1333
+975,"Żnin, Kujawsko-Pomorskie, Poland",52.85,17.7
+976,"Żory, Śląskie, Poland",50.05,18.7
+977,"Żuromin, Mazowieckie, Poland",53.0667,19.9
+978,"Żyrardów, Mazowieckie, Poland",52.05,20.4333
+979,"Żywiec, Śląskie, Poland",49.6892,19.2058
+980,"Ḩamāh, Syria",35.1333,36.75
+981,"‘Aqrah, Nīnawá, Iraq",36.7414,43.8933

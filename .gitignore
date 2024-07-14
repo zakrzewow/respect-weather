@@ -1,0 +1,10 @@
+.terraform
+.terraform.lock.hcl
+terraform.tfstate.backup
+env
+app/modules/credentials.json
+api/credentials.json
+__pycache__
+api/favourites.db
+terraform.tfvars
+terraform.tfstate
